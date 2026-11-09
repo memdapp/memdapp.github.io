@@ -1,0 +1,15 @@
+filter: "Отфильтровать потоки по"
+add:
+  label: "Добавить поток"
+body:
+  addFields: "Добавить поля"
+  hideList: "Скрыть список"
+  title: "Заголовок"
+  authors: "Автор"
+  identifier: "Идентификатор"
+  language: "Язык"
+  description: "Описание"
+  cssContent: "CSS"
+  coverImage: "Изображение обложки"
+  navigationTitle: "Заголовок навигации"
+  navigationInSpine: "Навигация как страница"

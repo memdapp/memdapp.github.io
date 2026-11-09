@@ -1,0 +1,68 @@
+title:
+  placeholder: "Title"
+property:
+  label: "Properties"
+  words: "Words"
+  characters: "Characters"
+  authorSheets: "Author's sheets"
+  created: "Created"
+  updated: "Updated"
+  id: "Unique id"
+settings:
+  label: "Settings"
+  readonly: "Read only"
+  blur: "Blur view"
+  editTags: "Edit tags"
+  editLabel: "Edit label"
+  changeArea: "Change area"
+  moveToTrash: "Move to trash"
+  occurredOn: "Occurred on {date}"
+trash:
+  empty: "Trash is empty."
+  restore:  "Restore from trash"
+list:
+  edit: "Edit"
+  noRecords: "There are no records yet."
+  forever: "Forever"
+  deleteForever: "Delete forever"
+export:
+  document: "Export a document"
+  showTitles: "Show titles"
+  archiveData: "Archive data"
+  internalStore: "Internal store"
+indexList:
+  title: 'Title'
+  check: 'Check'
+  description: 'Description'
+  label: 'Label'
+  date: 'date'
+  count: 'Count'
+  link: 'Link'
+  delete: 'Delete'
+deleteAllDialog:
+  title: "Delete all"
+  body: "Are you sure you want to delete all items?"
+  buttonLabel: "Delete"
+deleteCheckedDialog:
+  title: "Delete checked"
+  body: "Are you sure you want to delete all checked items?"
+  buttonLabel: "Delete"
+importFileDialog:
+  title: "Select an import file:"
+  label: "Import file"
+importData: "Import data"
+exportData: "Export data"
+sortByTitle: "By title"
+sortByDate: "By date"
+sortByCount: "By count"
+sortByCheck: "Sort by status"
+searchHint: "Search..."
+noItemsForExport: "No items for export"
+noItemsForDelete: "No items to delete"
+noCheckedItems: "No checked items"
+exportSuccess: "Exported {count} items to JSON (copied to clipboard)"
+importSuccess: "Imported {count} items"
+importError: "Import error: {error}"
+importEmpty: "Enter data for import"
+importNotArray: "Data must be an array"
+fieldSettings: "Field settings"

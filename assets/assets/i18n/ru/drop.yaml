@@ -1,0 +1,20 @@
+toggle:
+  flows: "Переключить потоки"
+  readIn: "Переключить доп. материалы"
+add:
+  label: "Добавить запись"
+editor:
+  placeholder: "Начните вводить заметку..."
+removeFromThisFlow: "Удалить из этого потока"
+removeFromReadIn: "Удалить из  дополнительного списка"
+deleteFromFlowAcceptDialog:
+  title: "Удалить из этого потока"
+  body: "Заметка будет удалена из этого потока"
+  buttonLabel: "Удалить"
+deleteFromReadInAcceptDialog:
+  title: "Удалить из дополнительного списка"
+  body: "Заметка будет удалена из дополнительного списка"
+  buttonLabel: "Удалить"
+type:
+  text: "Текст"
+  list: "Список"

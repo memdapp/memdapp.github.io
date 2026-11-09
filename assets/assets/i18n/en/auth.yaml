@@ -1,0 +1,34 @@
+set: 'Set auth'
+clear: 'Clear auth'
+delete: 'Delete auth'
+wasCleared: 'Auth was cleared'
+wasSelected: 'Disk was selected'
+wasDeleted: 'Disk was deleted'
+google: 'Google auth [!DEV]'
+yandex: 'Yandex auth {domain}'
+yandexWasAdded: 'Yandex token was added'
+googleWasAdded: 'Google token was added'
+tokenWasDeleted: 'Token was deleted'
+emptyToken: 'Empty token'
+tokenDuplicate: 'Duplicate token'
+yandexFail: 'Could not launch Yandex auth'
+unknownDisk: 'Unknown disk'
+emptyDisk: 'Empty disk'
+emptyLogin: 'Empty login'
+emptyKey: 'Empty key'
+createKey: 'Generate new key'
+deleteKey: 'Delete key'
+keyCreated: 'Secret key was created'
+keyDeleted: 'Secret key was deleted'
+keyUpdated: 'Secret key was updated'
+loadExistKey: 'Load exist key'
+showKeyQr: 'Show key QR code'
+scanExistKey: 'Scan exist key'
+overwriteSecretKeyAcceptDialog:
+  title: "Overwrite key"
+  body: "The key will be overwritten. Data on the remote disk will be re-encrypted with the new key. You will need to update the key on other devices."
+  buttonLabel: "Overwrite"
+deleteSecretKeyAcceptDialog:
+  title: "Delete key"
+  body: "The key will be deleted. You will no longer be able to access the remote drive."
+  buttonLabel: "Delete"

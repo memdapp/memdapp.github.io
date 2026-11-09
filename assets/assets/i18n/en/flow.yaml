@@ -1,0 +1,15 @@
+filter: "Filter flows by"
+add:
+  label: "Add flow"
+body:
+  addFields: "Add fields"
+  hideList: "Hide field list"
+  title: 'Title'
+  authors: "Authors"
+  identifier: "Identifier"
+  language: "Language"
+  description: "Description"
+  cssContent: "CSS"
+  coverImage: "Cover image"
+  navigationTitle: "Navigation title"
+  navigationInSpine: "Navigation in spine"

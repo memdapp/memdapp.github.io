@@ -1,0 +1,20 @@
+toggle:
+  flows: "Toggle flows"
+  readIn: "Toggle additional"
+add:
+  label: "Add new  memo drop"
+editor:
+  placeholder: "Start writing your memo drop..."
+removeFromThisFlow: "Remove from this flow"
+removeFromReadIn: "Remove from additional list"
+deleteFromFlowAcceptDialog:
+  title: "Remove from this flow"
+  body: "The drop will be deleted from this flow."
+  buttonLabel: "Delete"
+deleteFromReadInAcceptDialog:
+  title: "Remove from additional list"
+  body: "The drop will be deleted from additional list."
+  buttonLabel: "Delete"
+type:
+  text: "Text"
+  list: "List"

@@ -1,0 +1,73 @@
+title: "Приложение memd"
+error: 'Ошибка'
+copy: 'Скопировать'
+delete: 'Удалить'
+addBelow: 'Добавить элемент ниже'
+elementNotFound: 'Элемент не найден'
+fieldNotFound: '`{field}` не найден'
+emptyTitle: 'Пустой заголовок'
+area:
+  add: "Добавить"
+  new: "Новое пространство"
+tags:
+  add: "Добавить"
+  new: "Новый тег"
+  no: "Пока нет тегов"
+  edit: "Редактировать теги"
+drawer:
+  auth: "Авторизация"
+  toTrash: "В корзину"
+  fromTrash: "Из корзины"
+  flowList: "Потоки"
+  dataImport: "Импорт данных"
+  dataDownloads: "Загрузки"
+  dataExport: "Экспорт данных"
+  sync: "Синхро: {count}"
+  syncClearCache: "Очистить синхро кэш"
+  syncFillStack: "Заполнить синхро стек"
+  syncReset: "Перезапустить синхро"
+  version: "Версия {version} \nСборка {buildDate}"
+  info: "Информация"
+  dropHelper: "Дополнительный список"
+search:
+  query: "Поисковый запрос"
+ux:
+  closeLabel: "Закрыть"
+  applyLabel: "OK"
+  resetLabel: "Сброс"
+format:
+  date: 'dd.MM.yyyy'
+  dateTime: 'dd.MM.yyyy HH:mm'
+crypt:
+  encryptionError: 'Ошибка шифрования'
+  label: 'Пароль'
+  desc: 'Введите пароль (минимум {minLen} символов, буквы, цифры, спецсимволы)'
+  minLen: 'Пароль должен содержать минимум {minLen} символов'
+  letters: 'Пароль должен содержать буквы'
+  numbers: 'Пароль должен содержать цифры'
+  specCharacters: 'Пароль должен содержать специальные символы (!@#\$%^&* и т.д.)'
+  downloadFile: 'Скачать как файл'
+  decrypting: '🔓 Расшифровка JSON данных...'
+  applyKey: 'Применить ключ'
+  decryptedSuccess: '✅  Расшифровано успешно!'
+  decryptedNotJson: 'Расшифровано, но данные не являются валидным JSON. Возможно, неверный пароль.'
+  incorrectCorrupted: 'Неверный пароль или данные повреждены'
+  invalidPassword: 'Ошибка расшифровки: неверный пароль'
+  authTokenTitle: 'Токен авторизации'
+  encryptKeyTitle: 'Ключ шифрования'
+settings:
+  title: "Настройки"
+  lang: "Язык: {lang}"
+  bottomEdPanel: 'Панель редактора внизу'
+  hideEdPanel: 'Спрятать панель редактора'
+  hideLabels: 'Спрятать метки документов'
+  hideTags: 'Спрятать теги документов'
+  moveToArea: 'Переходить в пространство вместе c документом'
+  devMode: 'Режим разработчика'
+  groupedAreas: 'Сгруппированные пространства'
+  isSerif: "использовать шрифт Serif"
+  fontScale: "масштаб шрифта {list}"
+  lineHeight: "Межстрочный интервал {list}"
+  maxWidth: "Максимальная ширина {list}"
+  twoPanelEnabled: "Две панели включены"
+  sideRight: "Боковая панель справа"

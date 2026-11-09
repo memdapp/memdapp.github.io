@@ -1,0 +1,68 @@
+title:
+  placeholder: "Заголовок"
+property:
+  label: "Свойства"
+  words: "Слова"
+  characters: "Символы"
+  authorSheets: "Авторские листы"
+  created: "Создан"
+  updated: "Изменён"
+  id: "Уникальный id"
+settings:
+  label: "Настройки"
+  readonly: "Только чтение"
+  blur: "Размыть просмотр"
+  editTags: "Редактировать теги"
+  editLabel: "Редактировать метку"
+  changeArea: "Сменить пространство"
+  moveToTrash: "Удалить в корзину"
+  occurredOn: "Произошло {date}"
+trash:
+  empty: "Корзина пуста"
+  restore:  "Восстановить из корзины"
+list:
+  edit: "Редактировать"
+  noRecords: "Пока нет записей"
+  forever: "Навсегда"
+  deleteForever: "Удалить навсегда"
+export:
+  document: "Экспортировать документ"
+  showTitles: "Показать заголовки"
+  archiveData: "Архивировать"
+  internalStore: "Внутреннее хранилище"
+indexList:
+  title: 'Заголовок'
+  check: 'Флажок'
+  description: 'Описание'
+  label: 'Метка'
+  date: 'Дата'
+  count: 'Счетчик'
+  link: 'Ссылка'
+  delete: 'Удалить'
+deleteAllDialog:
+  title: "Удалить всё"
+  body: "Вы уверены, что хотите удалить все элементы?"
+  buttonLabel: "Удалить"
+deleteCheckedDialog:
+  title: "Удалить отмеченные"
+  body: "Вы уверены, что хотите удалить все отмеченные элементы?"
+  buttonLabel: "Удалить"
+importFileDialog:
+  title: "Выберите файл для импорта"
+  label: "Импорт файла"
+importData: "Импорт данных"
+exportData: "Экспорт данных"
+sortByTitle: "По заголовку"
+sortByDate: "По дате"
+sortByCount: "По количеству"
+sortByCheck: "Сортировать по статусу"
+searchHint: "Поиск..."
+noItemsForExport: "Нет элементов для экспорта"
+noItemsForDelete: "Нет элементов для удаления"
+noCheckedItems: "Нет отмеченных элементов"
+exportSuccess: "Экспортировано {count} элементов в JSON (скопировано в буфер)"
+importSuccess: "Импортировано {count} элементов"
+importError: "Ошибка импорта: {error}"
+importEmpty: "Введите данные для импорта"
+importNotArray: "Данные должны быть массивом"
+fieldSettings: "Настройки полей"

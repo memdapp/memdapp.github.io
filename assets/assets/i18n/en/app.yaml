@@ -1,0 +1,73 @@
+title: "Memd app"
+error: 'Error'
+copy: 'Copy'
+delete: 'Delete'
+addBelow: 'Add item below'
+elementNotFound: 'Element not found'
+fieldNotFound: '`{field}` not found'
+emptyTitle: 'Пустой заголовок'
+area:
+  add: "Add"
+  new: "New area"
+tags:
+  add: "Add"
+  new: "New tag"
+  no: "There are no tags yet."
+  edit: "Edit tags"
+drawer:
+  auth: "Authorisation"
+  toTrash: "To trash"
+  fromTrash: "From trash"
+  flowList: "Flows"
+  dataImport: "Data import"
+  dataDownloads: "Downloads"
+  dataExport: "Data  export"
+  sync: "Sync.: {count}"
+  syncClearCache: "Clear sync cash"
+  syncFillStack: "Fill sync stack"
+  syncReset: "Reset synchronisation"
+  version: "Version {version} \nBuild {buildDate}"
+  info: "Information"
+  dropHelper: "additional list"
+search:
+  query: "Search  query"
+ux:
+  closeLabel: "Close"
+  applyLabel: "OK"
+  resetLabel: "Reset"
+format:
+  date: 'dd MMM yyyy'
+  dateTime: 'dd MMM yyyy HH:mm'
+crypt:
+  encryptionError: 'Encryption error'
+  label: 'Password'
+  desc: 'Enter password (minimum {minLen} characters, letters, numbers, special symbols)'
+  minLen: 'Password must contain at least {minLen} characters'
+  letters: 'Password must contain letters'
+  numbers: 'Password must contain numbers'
+  specCharacters: 'Password must contain special characters (!@#\$%^&* etc.)'
+  downloadFile: 'Download as file'
+  decrypting: '🔓 Decoding JSON data'
+  applyKey: 'Apply secret key'
+  decryptedSuccess: '✅  Decrypted successfully!'
+  decryptedNotJson: 'Decrypted, but the data is not valid JSON. The password may be incorrect.'
+  incorrectCorrupted: 'Incorrect password or data is corrupted'
+  invalidPassword: 'Decryption error: invalid password'
+  authTokenTitle: 'Auth token'
+  encryptKeyTitle: 'Encryption key'
+settings:
+  title: 'Settings'
+  lang: 'Language: {lang}'
+  bottomEdPanel: 'Move the editor panel down'
+  hideEdPanel: 'Hide the editor panel'
+  hideLabels: 'Hide document labels'
+  hideTags: 'Hide document tags'
+  moveToArea: 'Move to an area with a document'
+  devMode: 'Developer mode'
+  groupedAreas: 'Grouped areas'
+  isSerif: "USe Serif font"
+  fontScale: "Editor font scale {list}"
+  lineHeight: "Line height {list}"
+  maxWidth: "Max width {list}"
+  twoPanelEnabled: "Two panel are enabled"
+  sideRight: "Sidebar on the right"

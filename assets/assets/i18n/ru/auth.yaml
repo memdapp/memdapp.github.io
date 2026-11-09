@@ -1,0 +1,34 @@
+set: 'Установить авторизацию'
+clear: 'Очистить авторизацию'
+delete: 'Удалить авторизацию'
+wasCleared: 'Авторизация была очищена'
+wasSelected: 'Авторизация была выбрана'
+wasDeleted: 'Авторизация была удалена'
+google: 'Авторизация Google [!DEV]'
+yandex: 'Авторизация Yandex {domain}'
+yandexWasAdded: 'Yandex токен был добавлен'
+googleWasAdded: 'Google токен был добавлен'
+tokenWasDeleted: 'Токен был удалён'
+emptyToken: 'Пустой токен'
+tokenDuplicate: 'Повторяющийся токен'
+yandexFail: 'Не удалось запустить авторизацию Yandex.'
+unknownDisk: 'Неизвестный диск'
+emptyDisk: 'Пустой диск'
+emptyLogin: 'Пустой логин'
+emptyKey: 'Пустой ключ'
+createKey: 'Сгенерировать новый ключ'
+deleteKey: 'Удалить ключ'
+keyCreated: 'Секретный ключ создан'
+keyDeleted: 'Секретный ключ удалён'
+keyUpdated: 'Секретный ключ обновлён'
+loadExistKey: 'Загрузить существующий ключ'
+showKeyQr: 'Показать QR код ключа'
+scanExistKey: 'отсканировать существующий ключ'
+overwriteSecretKeyAcceptDialog:
+  title: "Перезаписать ключ"
+  body: "Ключ будет перезаписан. На удалённом диске данные будут перезаписаны с новым ключём. Нужно будет обновить ключ на других устройствах"
+  buttonLabel: "Перезаписать"
+deleteSecretKeyAcceptDialog:
+  title: "Удалить ключ"
+  body: "Ключ будет удалён. На Вы не сможете работать с удалённым диском"
+  buttonLabel: "Удалить"
