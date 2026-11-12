@@ -1301,7 +1301,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 asn1lib
 
-http://opensource.org/licenses/BSD-3-Clause
+https://opensource.org/license/bsd-2-clause
 Copyright (c) 2015, Warren Strange
 All rights reserved.
 
@@ -1325,8 +1325,10 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+
 --------------------------------------------------------------------------------
 async
+cli_util
 collection
 mime
 stream_channel
@@ -2099,6 +2101,7 @@ path_provider_android
 path_provider_foundation
 path_provider_linux
 path_provider_platform_interface
+url_launcher
 url_launcher_android
 url_launcher_ios
 url_launcher_linux
@@ -2106,6 +2109,7 @@ url_launcher_macos
 url_launcher_web
 url_launcher_windows
 vector_graphics
+vector_graphics_codec
 vector_graphics_compiler
 
 Copyright 2013 The Flutter Authors
@@ -2766,7 +2770,6 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 --------------------------------------------------------------------------------
 dbus
-gtk
 
 Mozilla Public License Version 2.0
 ==================================
@@ -5952,6 +5955,22 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 --------------------------------------------------------------------------------
 fetch_api
+
+Copyright 2023-2026 Yaroslav Vorobev and contributors. All rights reserved.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+--------------------------------------------------------------------------------
 fetch_client
 
 Copyright 2023-2025 Yaroslav Vorobev and contributors. All rights reserved.
@@ -6831,9 +6850,7 @@ flutter_lints
 google_identity_services_web
 path_provider_windows
 plugin_platform_interface
-url_launcher
 url_launcher_platform_interface
-vector_graphics_codec
 xdg_directories
 
 Copyright 2013 The Flutter Authors. All rights reserved.
